@@ -1,0 +1,38 @@
+.food{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 5%;
+    
+
+}
+img{
+    height: 179px;
+    width: 100%;
+
+
+}
+h5{
+    text-align: center;
+    margin-top: -17px;
+    margin-right: 10px;
+}
+
+
+h3{
+    margin-top: 5px;
+    text-align: center;
+    padding: 2px;
+}
+p{
+    margin-top: 1px;
+    text-align: center;
+}
+.img-1{
+    background-color: antiquewhite;
+    height: 250px;
+    width: 20%;
+    border: 1px solid black;
+
+}
